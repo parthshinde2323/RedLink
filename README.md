@@ -10,7 +10,7 @@ RedLink is a real-time blood emergency coordination platform that connects **Hos
 
 🥈 **Runner-Up — Innoverse 2.0 Hackathon**
 
-RedLink was developed during **Innoverse 2.0 Hackathon**, where it secured the **Runner-Up** position. The project was recognized for its innovative approach to emergency blood coordination by combining AI, real-time communication, and intelligent routing into a single platform.
+RedLink was developed during **TECHSPRINT Smart System Hackathon**, where it secured the **Runner-Up** position. The project was recognized for its innovative approach to emergency blood coordination by combining AI, real-time communication, and intelligent routing into a single platform.
 
 ---
 
